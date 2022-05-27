@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# untitled
+# Flutter app
 
-A new Flutter project.
+List view
 
 ## Getting Started
 
@@ -12,10 +11,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+
 # ListView-Flutter
-List view of items with different colors. When clicking on a button the colors change randomly
->>>>>>> 2640cd0aed94780ab8aea588a42a944b774d1054
+# List view of items with different colors. When clicking on a button the colors change randomly<br>
+![image](https://user-images.githubusercontent.com/63150702/170660112-a2364569-2c2f-45d7-bf18-c39ac9896eed.png)
+![image](https://user-images.githubusercontent.com/63150702/170660199-a88ab053-d4fb-4fac-9a8b-4c50b9b3c687.png)
+
